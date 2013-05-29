@@ -1,0 +1,7 @@
+.hide {
+    display: none;
+}
+
+
+#leads_form label { font-weight: bold; }
+#leads_form .disc { margin-left: 20px; }
